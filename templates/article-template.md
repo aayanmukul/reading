@@ -11,7 +11,7 @@
 
 ---
 
-## Personal Notes / Reflections
+## Notes
 - 
 
 ---
