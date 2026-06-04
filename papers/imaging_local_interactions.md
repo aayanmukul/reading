@@ -7,7 +7,7 @@
 
 **Date:** 1973
 
-**DOI/Publisher Link:** [https://doi.org/10.1038/242190a0](#)
+**DOI/Publisher Link:** [https://doi.org/10.1038/242190a0](https://doi.org/10.1038/242190a0)
 
 ---
 
